@@ -5,8 +5,8 @@ The goal is wrangling WeRateDogs Twitter data to create interesting and trustwor
 
 Required packages:
 <li>pandas</li>
-<li>NumPy<li>
-<li>requests<li>
-<li>tweepy<li>
-<li>json<li>
+<li>NumPy</li>
+<li>requests</li>
+<li>tweepy</li>
+<li>json</li>
 
